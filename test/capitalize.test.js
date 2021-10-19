@@ -1,4 +1,4 @@
-import capitalize from '../code/capitalize.js';
+import capitalize from '../code/capitalize';
 
 test('Returns string with first letter capitalized', () => {
     const capitalizedString = capitalize('correct');
